@@ -1,1 +1,1 @@
-example of changes to my clone file
+example of changes for my clone file
